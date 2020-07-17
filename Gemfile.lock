@@ -92,7 +92,7 @@ GEM
     actionpack (4.2.11.3)
       actionview (= 4.2.11.3)
       activesupport (= 4.2.11.3)
-      rack (~> 1.6)
+      rack (~> 2.14)
       rack-test (~> 0.6.2)
       rails-dom-testing (~> 1.0, >= 1.0.5)
       rails-html-sanitizer (~> 1.0, >= 1.0.2)
@@ -280,7 +280,7 @@ GEM
     rack-protection (1.5.5)
       rack
     rack-test (0.6.3)
-      rack (>= 1.0)
+      rack (>= 2.14)
     rails-deprecated_sanitizer (1.0.3)
       activesupport (>= 4.2.0.alpha)
     rails-dom-testing (1.0.9)
